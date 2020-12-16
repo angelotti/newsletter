@@ -1,0 +1,5 @@
+D:\A1\Newsletter_System 2.0\DAO\bin\Debug\DAO.dll
+D:\A1\Newsletter_System 2.0\DAO\bin\Debug\DAO.pdb
+D:\A1\Newsletter_System 2.0\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\A1\Newsletter_System 2.0\DAO\obj\Debug\DAO.dll
+D:\A1\Newsletter_System 2.0\DAO\obj\Debug\DAO.pdb

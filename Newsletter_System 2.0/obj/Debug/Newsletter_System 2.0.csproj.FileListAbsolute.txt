@@ -1,0 +1,62 @@
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Form1.resources
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Form1.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.NewsletterForm.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.NewsletterForm.resources
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.NewsletterForm.resources
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe.config
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.exe
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\Newsletter_System 2.0.pdb
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csprojAssemblyReference.cache
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.NewsletterForm.resources
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System_2._0.Properties.Resources.resources
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.GenerateResource.cache
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.exe
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.pdb
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\BLL.dll
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\DAO.dll
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\BLL.pdb
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\bin\Debug\DAO.pdb
+D:\A1\Newsletter_System 2.0\Newsletter_System 2.0\obj\Debug\Newsletter_System 2.0.csproj.CopyComplete

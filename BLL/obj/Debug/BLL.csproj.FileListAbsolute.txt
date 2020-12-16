@@ -1,0 +1,8 @@
+D:\A1\Newsletter_System 2.0\BLL\bin\Debug\BLL.dll
+D:\A1\Newsletter_System 2.0\BLL\bin\Debug\BLL.pdb
+D:\A1\Newsletter_System 2.0\BLL\bin\Debug\DAO.dll
+D:\A1\Newsletter_System 2.0\BLL\bin\Debug\DAO.pdb
+D:\A1\Newsletter_System 2.0\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\A1\Newsletter_System 2.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\A1\Newsletter_System 2.0\BLL\obj\Debug\BLL.dll
+D:\A1\Newsletter_System 2.0\BLL\obj\Debug\BLL.pdb
