@@ -80,7 +80,7 @@ Esse programa controla e envia as mensagens para divulgação de marketing para 
 
 ## Desenvolvido com
 * [Microsoft Visual Studio Enterprise 2019](https://visualstudio.microsoft.com/pt-br/vs/enterprise/)
-* [Microsoft SQL Server Enterprise 2017](https://www.microsoft.com/en-us/sql-server/sql-server-2016)
+* [Microsoft SQL Server Enterprise 2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
 * [.NET Framework](https://dotnet.microsoft.com)
 
 ### Versão
